@@ -1,4 +1,4 @@
-module github.com/Hawthorn2013/he-dns
+module github.com/hawthorn2013/he-dns
 
 go 1.16
 
